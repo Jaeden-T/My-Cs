@@ -1,0 +1,23 @@
+{
+  "unversionedId": "python/Functions-vs-Procedures",
+  "id": "python/Functions-vs-Procedures",
+  "title": "Functions-vs-Procedures",
+  "description": "Procedures:",
+  "source": "@site/docs/python/Functions-vs-Procedures.md",
+  "sourceDirName": "python",
+  "slug": "/python/Functions-vs-Procedures",
+  "permalink": "/My-Cs/python/Functions-vs-Procedures",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Validation -\\_(!-!)_/-",
+    "permalink": "/My-Cs/python/python-valid"
+  },
+  "next": {
+    "title": "functions",
+    "permalink": "/My-Cs/python/functions"
+  }
+}

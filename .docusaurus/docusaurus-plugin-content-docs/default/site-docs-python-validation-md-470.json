@@ -1,0 +1,29 @@
+{
+  "unversionedId": "python/python-valid",
+  "id": "python/python-valid",
+  "title": "Validation -\\_(!-!)_/-",
+  "description": "Using Validation",
+  "source": "@site/docs/python/validation.md",
+  "sourceDirName": "python",
+  "slug": "/python/python-valid",
+  "permalink": "/My-Cs/python/python-valid",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "description": "Using Validation",
+    "title": "Validation -\\_(!-!)_/-",
+    "id": "python-valid"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Conditions!",
+    "permalink": "/My-Cs/python/python-conditions"
+  },
+  "next": {
+    "title": "Functions-vs-Procedures",
+    "permalink": "/My-Cs/python/Functions-vs-Procedures"
+  }
+}

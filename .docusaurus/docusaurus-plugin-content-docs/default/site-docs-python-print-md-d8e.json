@@ -1,0 +1,29 @@
+{
+  "unversionedId": "python/python-print",
+  "id": "python/python-print",
+  "title": "Print!",
+  "description": "Basic print functions",
+  "source": "@site/docs/python/print.md",
+  "sourceDirName": "python",
+  "slug": "/python/python-print",
+  "permalink": "/My-Cs/python/python-print",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "description": "Basic print functions",
+    "title": "Print!",
+    "id": "python-print"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "welcome",
+    "permalink": "/My-Cs/python/welcome"
+  },
+  "next": {
+    "title": "Input!",
+    "permalink": "/My-Cs/python/python-input"
+  }
+}

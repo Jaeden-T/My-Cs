@@ -1,0 +1,19 @@
+{
+  "unversionedId": "test",
+  "id": "test",
+  "title": "test",
+  "description": "jsankdjopwa",
+  "source": "@site/docs/test.md",
+  "sourceDirName": ".",
+  "slug": "/test",
+  "permalink": "/My-Cs/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "symbols",
+    "permalink": "/My-Cs/python/symbols"
+  }
+}

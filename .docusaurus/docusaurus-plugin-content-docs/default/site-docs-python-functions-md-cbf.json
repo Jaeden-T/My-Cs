@@ -1,0 +1,23 @@
+{
+  "unversionedId": "python/functions",
+  "id": "python/functions",
+  "title": "functions",
+  "description": "Information can be passed into functions as arguments.",
+  "source": "@site/docs/python/functions.md",
+  "sourceDirName": "python",
+  "slug": "/python/functions",
+  "permalink": "/My-Cs/python/functions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Functions-vs-Procedures",
+    "permalink": "/My-Cs/python/Functions-vs-Procedures"
+  },
+  "next": {
+    "title": "symbols",
+    "permalink": "/My-Cs/python/symbols"
+  }
+}

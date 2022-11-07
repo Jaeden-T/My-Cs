@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/My-Cs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/My-Cs/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/My-Cs/intro",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/functions",
+              "path": "/My-Cs/python/functions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/Functions-vs-Procedures",
+              "path": "/My-Cs/python/Functions-vs-Procedures",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/python-conditions",
+              "path": "/My-Cs/python/python-conditions",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/python-input",
+              "path": "/My-Cs/python/python-input",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/python-print",
+              "path": "/My-Cs/python/python-print",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/python-valid",
+              "path": "/My-Cs/python/python-valid",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/symbols",
+              "path": "/My-Cs/python/symbols",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "python/welcome",
+              "path": "/My-Cs/python/welcome",
+              "sidebar": "defaultSidebar"
+            },
+            {
+              "id": "test",
+              "path": "/My-Cs/test",
+              "sidebar": "defaultSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "defaultSidebar": {
+              "link": {
+                "path": "/My-Cs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

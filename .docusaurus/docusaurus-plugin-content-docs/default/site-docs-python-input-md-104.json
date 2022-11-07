@@ -1,0 +1,29 @@
+{
+  "unversionedId": "python/python-input",
+  "id": "python/python-input",
+  "title": "Input!",
+  "description": "Basic input functions",
+  "source": "@site/docs/python/input.md",
+  "sourceDirName": "python",
+  "slug": "/python/python-input",
+  "permalink": "/My-Cs/python/python-input",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "description": "Basic input functions",
+    "title": "Input!",
+    "id": "python-input"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Print!",
+    "permalink": "/My-Cs/python/python-print"
+  },
+  "next": {
+    "title": "Conditions!",
+    "permalink": "/My-Cs/python/python-conditions"
+  }
+}

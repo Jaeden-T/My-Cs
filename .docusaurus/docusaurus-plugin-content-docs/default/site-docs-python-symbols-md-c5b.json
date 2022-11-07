@@ -1,0 +1,23 @@
+{
+  "unversionedId": "python/symbols",
+  "id": "python/symbols",
+  "title": "symbols",
+  "description": "|Operator|Description|Syntax|",
+  "source": "@site/docs/python/symbols.md",
+  "sourceDirName": "python",
+  "slug": "/python/symbols",
+  "permalink": "/My-Cs/python/symbols",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "functions",
+    "permalink": "/My-Cs/python/functions"
+  },
+  "next": {
+    "title": "test",
+    "permalink": "/My-Cs/test"
+  }
+}
