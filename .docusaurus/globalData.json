@@ -8,13 +8,8 @@
           "label": "Next",
           "isLast": true,
           "path": "/My-Cs/",
-          "mainDocId": "intro",
+          "mainDocId": "python/welcome",
           "docs": [
-            {
-              "id": "intro",
-              "path": "/My-Cs/intro",
-              "sidebar": "defaultSidebar"
-            },
             {
               "id": "python/functions",
               "path": "/My-Cs/python/functions",
@@ -54,19 +49,14 @@
               "id": "python/welcome",
               "path": "/My-Cs/python/welcome",
               "sidebar": "defaultSidebar"
-            },
-            {
-              "id": "test",
-              "path": "/My-Cs/test",
-              "sidebar": "defaultSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "defaultSidebar": {
               "link": {
-                "path": "/My-Cs/intro",
-                "label": "intro"
+                "path": "/My-Cs/python/welcome",
+                "label": "python/welcome"
               }
             }
           }

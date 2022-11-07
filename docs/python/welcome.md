@@ -9,3 +9,7 @@ Some basic stuff you need:
 1. Able to read
 2. Able to google (for some things you do not understand)
 3. Pycharm
+
+:::danger
+STILL A WORK IN PROGRESS AND WILL BE UPDATED DAILY
+:::

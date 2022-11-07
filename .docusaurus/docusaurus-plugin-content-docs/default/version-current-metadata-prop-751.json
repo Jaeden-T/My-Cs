@@ -10,12 +10,6 @@
   "docsSidebars": {
     "defaultSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/My-Cs/intro",
-        "docId": "intro"
-      },
-      {
         "type": "category",
         "label": "python",
         "collapsible": true,
@@ -70,26 +64,14 @@
             "docId": "python/symbols"
           }
         ]
-      },
-      {
-        "type": "link",
-        "label": "test",
-        "href": "/My-Cs/test",
-        "docId": "test"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
-      "sidebar": "defaultSidebar"
-    },
     "python/functions": {
       "id": "python/functions",
       "title": "functions",
-      "description": "Information can be passed into functions as arguments.",
+      "description": "---",
       "sidebar": "defaultSidebar"
     },
     "python/Functions-vs-Procedures": {
@@ -132,12 +114,6 @@
       "id": "python/welcome",
       "title": "welcome",
       "description": "Welcome to fuinny python!",
-      "sidebar": "defaultSidebar"
-    },
-    "test": {
-      "id": "test",
-      "title": "test",
-      "description": "jsankdjopwa",
       "sidebar": "defaultSidebar"
     }
   }

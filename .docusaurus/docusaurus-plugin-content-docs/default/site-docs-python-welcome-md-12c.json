@@ -15,10 +15,6 @@
     "sidebar_position": 1
   },
   "sidebar": "defaultSidebar",
-  "previous": {
-    "title": "Tutorial Intro",
-    "permalink": "/My-Cs/intro"
-  },
   "next": {
     "title": "Print!",
     "permalink": "/My-Cs/python/python-print"

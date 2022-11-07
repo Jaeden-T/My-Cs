@@ -17,32 +17,10 @@
           "contentPathLocalized": "/Users/jaeden/My-Cs/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "intro",
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/My-Cs/intro",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "defaultSidebar",
-              "next": {
-                "title": "welcome",
-                "permalink": "/My-Cs/python/welcome"
-              }
-            },
-            {
               "unversionedId": "python/functions",
               "id": "python/functions",
               "title": "functions",
-              "description": "Information can be passed into functions as arguments.",
+              "description": "---",
               "source": "@site/docs/python/functions.md",
               "sourceDirName": "python",
               "slug": "/python/functions",
@@ -217,10 +195,6 @@
               "previous": {
                 "title": "functions",
                 "permalink": "/My-Cs/python/functions"
-              },
-              "next": {
-                "title": "test",
-                "permalink": "/My-Cs/test"
               }
             },
             {
@@ -240,42 +214,15 @@
                 "sidebar_position": 1
               },
               "sidebar": "defaultSidebar",
-              "previous": {
-                "title": "Tutorial Intro",
-                "permalink": "/My-Cs/intro"
-              },
               "next": {
                 "title": "Print!",
                 "permalink": "/My-Cs/python/python-print"
-              }
-            },
-            {
-              "unversionedId": "test",
-              "id": "test",
-              "title": "test",
-              "description": "jsankdjopwa",
-              "source": "@site/docs/test.md",
-              "sourceDirName": ".",
-              "slug": "/test",
-              "permalink": "/My-Cs/test",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "defaultSidebar",
-              "previous": {
-                "title": "symbols",
-                "permalink": "/My-Cs/python/symbols"
               }
             }
           ],
           "drafts": [],
           "sidebars": {
             "defaultSidebar": [
-              {
-                "type": "doc",
-                "id": "intro"
-              },
               {
                 "type": "category",
                 "label": "python",
@@ -315,10 +262,6 @@
                     "id": "python/symbols"
                   }
                 ]
-              },
-              {
-                "type": "doc",
-                "id": "test"
               }
             ]
           }
