@@ -28,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "routeBasePath": "/"
+          "sidebarPath": "/Users/jaeden/My-Cs/sidebars.js"
         },
         "blog": false,
         "theme": {

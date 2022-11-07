@@ -1,55 +1,98 @@
 {
-  "/My-Cs/markdown-page-41d": {
-    "__comp": "1f391b9e",
+  "/My-Cs/__docusaurus/debug-ad8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "319341c8"
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/__docusaurus/debug/config-3e0": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/__docusaurus/debug/content-a44": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
     },
-    "content": "393be207"
+    "allContent": "allContent---my-cs-docusaurus-debug-content-246-3d3"
+  },
+  "/My-Cs/__docusaurus/debug/globalData-e32": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/__docusaurus/debug/metadata-d35": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/__docusaurus/debug/registry-c79": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/__docusaurus/debug/routes-10d": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---my-cs-docusaurus-debug-3-d-5-f0d"
+    }
+  },
+  "/My-Cs/markdown-page-41d": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---my-cs-markdown-page-319-27c"
+    },
+    "content": "content---my-cs-markdown-page-393-4c0"
+  },
+  "/My-Cs/docs-d7a": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---my-cs-docsb-3-b-48c"
+    },
+    "versionMetadata": "versionMetadata---my-cs-docs-935-49e"
+  },
+  "/My-Cs/docs/python/Functions-vs-Procedures-a58": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-functions-vs-procedures-933-d67"
+  },
+  "/My-Cs/docs/python/python-conditions-bbd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-python-conditions-207-8bb"
+  },
+  "/My-Cs/docs/python/python-functions-aee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-python-functionscbf-3fc"
+  },
+  "/My-Cs/docs/python/python-input-f6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-python-input-104-f2b"
+  },
+  "/My-Cs/docs/python/python-print-7cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-python-printd-8-e-ba7"
+  },
+  "/My-Cs/docs/python/python-valid-d35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-python-valid-470-eff"
+  },
+  "/My-Cs/docs/python/symbols-c73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-symbolsc-5-b-da8"
+  },
+  "/My-Cs/docs/python/welcome-bf1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---my-cs-docs-python-welcome-12-c-724"
   },
   "/My-Cs/-b68": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "319341c8"
+      "plugin": "plugin---my-cs-markdown-page-319-27c"
     },
-    "config": "5e9f5e1a"
-  },
-  "/My-Cs/-3aa": {
-    "__comp": "1be78505",
-    "__context": {
-      "plugin": "b3bf801c"
-    },
-    "versionMetadata": "935f2afb"
-  },
-  "/My-Cs/python/functions-c51": {
-    "__comp": "17896441",
-    "content": "cbf29a7b"
-  },
-  "/My-Cs/python/Functions-vs-Procedures-a2b": {
-    "__comp": "17896441",
-    "content": "93347d30"
-  },
-  "/My-Cs/python/python-conditions-d81": {
-    "__comp": "17896441",
-    "content": "2078acdb"
-  },
-  "/My-Cs/python/python-input-a19": {
-    "__comp": "17896441",
-    "content": "104a6de1"
-  },
-  "/My-Cs/python/python-print-86a": {
-    "__comp": "17896441",
-    "content": "d8e4644b"
-  },
-  "/My-Cs/python/python-valid-488": {
-    "__comp": "17896441",
-    "content": "47059ee1"
-  },
-  "/My-Cs/python/symbols-aa5": {
-    "__comp": "17896441",
-    "content": "c5b36ec9"
-  },
-  "/My-Cs/python/welcome-ec4": {
-    "__comp": "17896441",
-    "content": "12cc0058"
+    "config": "config---my-cs-5-e-9-7fe"
   }
 }

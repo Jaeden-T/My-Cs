@@ -1,25 +1,9 @@
-
 ---
-sidebar_position: 5
+sidebar_position: 6
 description: Functions!!
 title: Functions!
 id: python-functions
 ---
-# Arguments:
-Information can be passed into functions as arguments.
-
-Arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma.
-
-
-Example:
-```py
-Def my_function(fname):
-  print(fname + " Refsnes")
-
-my_function("Emil")
-my_function("Tobias")
-my_function("Linus") 
-````
 
 Functions are basically a block of code that can be reused over and over
 
@@ -35,4 +19,22 @@ height= int(input("Input the height: "))
 
 print(area(length, width, height))
 ```
+
+
+
+## Arguments:
+Information can be passed into functions as arguments.
+
+Arguments are specified after the function name, inside the parentheses. You can add as many arguments as you want, just separate them with a comma.
+
+
+Example:
+```py
+Def my_function(fname):
+  print(fname + " Refsnes")
+
+my_function("Emil")
+my_function("Tobias")
+my_function("Linus") 
+````
 

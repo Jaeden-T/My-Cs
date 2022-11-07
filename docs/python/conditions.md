@@ -7,8 +7,6 @@ id: python-conditions
 
 Conditions can be used in if statments and loops
 
-
-
 - Equals: a == b
 - Not Equals: a != b
 - ess than: a < b
@@ -16,5 +14,5 @@ Conditions can be used in if statments and loops
 - Greater than: a > b
 - Greater than or equal to: a >= b
 
-
 Example Conditions
+audnwa
