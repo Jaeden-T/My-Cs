@@ -50,3 +50,21 @@ Hello how are you?aHELLO
 ```
 Output:
 `Hello---how are you?`
+
+Printing out specfic letters in a word
+
+```py
+
+word = "apple"
+print(word[0:len(word)-2])
+# Prints out app
+
+
+word = "apple"
+print(word[0])
+# Prints out a
+
+
+word = "apple"
+print(word[0:2])
+#Prints out ap
